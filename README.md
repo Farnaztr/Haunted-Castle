@@ -24,7 +24,7 @@ No spoilers here — the less you know, the better the experience!
    - We strongly recommend using a **laptop or desktop** — full-screen mode may not work correctly on mobile devices.  
    - **Don’t worry if Windows warns you "Don’t run this file" or shows a security alert.**  
      This `.exe` file is safe and will not harm your laptop — it’s just a normal console game compiled by us.  
-5. Wait a few seconds for the music to load — then enjoy the game! 🎵🎮
+5. Wait a few seconds for the music to load — then enjoy the game! 
 
 ---
 
