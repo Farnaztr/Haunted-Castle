@@ -42,5 +42,11 @@ Please do not close the console too early — music loading may take a few secon
 We hope you enjoy the experience and get goosebumps like we did while making it. 
 
 ---
+## Let's Connect
+
+- Email: `farnaztarabi@gmail.com`
+- Telegram: 'https://t.me/CodeMatrixx'
+- YouTube: 'https://www.youtube.com/@here-bitzone'
+
 
 Thank you for playing!  
