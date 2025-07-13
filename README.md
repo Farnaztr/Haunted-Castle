@@ -17,7 +17,7 @@ No spoilers here — the less you know, the better the experience!
 
 ## How to run
 
-"We have uploaded the exe file to our Telegram channel: https://t.me/CodeMatrixx"
+copy `Program.cs` into your computer.
 
 ---
 
