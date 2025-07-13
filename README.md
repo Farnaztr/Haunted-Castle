@@ -52,5 +52,3 @@ We hope you enjoy the experience and get goosebumps like we did while making it.
 - Telegram: 'https://t.me/CodeMatrixx'
 - YouTube: 'https://www.youtube.com/@here-bitzone'
 
-
-Thank you for playing!  
