@@ -17,7 +17,7 @@ No spoilers here — the less you know, the better the experience!
 
 ## How to run
 
-copy `Program.cs` into your computer.
+copy  `Program.cs` file and paste in your Visual Studio.
 
 ---
 
