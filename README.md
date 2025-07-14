@@ -21,11 +21,11 @@ copy  `Program.cs` file and paste in your Visual Studio.
 
 ---
 
-## 🧑‍💻 Creators
+## Creators
 
 This game was developed by:
 
-- **Farnaz**  
+- **[Farnaz](https://github.com/username)**  
 - **Bahar** 
 
 We built this to learn, grow, and have fun creating something mysterious with code!
@@ -44,11 +44,4 @@ We built this to learn, grow, and have fun creating something mysterious with co
 
 Please do not close the console too early — music loading may take a few seconds depending on your connection.  
 We hope you enjoy the experience and get goosebumps like we did while making it. 
-
----
-## Let's Connect
-
-- Email: `farnaztarabi@gmail.com`
-- Telegram: 'https://t.me/CodeMatrixx'
-- YouTube: 'https://www.youtube.com/@here-bitzone'
 
