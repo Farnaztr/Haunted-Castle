@@ -25,8 +25,8 @@ copy  `Program.cs` file and paste in your Visual Studio.
 
 This game was developed by:
 
-- **[Farnaz](https://github.com/username)**  
-- **Bahar** 
+- **[Farnaz](https://github.com/farnaztr)**  
+- **[Bahar](https://github.com/bxharahmadi)** 
 
 We built this to learn, grow, and have fun creating something mysterious with code!
 
