@@ -13,6 +13,7 @@ A console-based horror game made with C#.
 "Haunted Castle" is a text-based mystery game that runs in the console. It combines storytelling, interaction, and sound to create a chilling adventure. You interact with the game by reading story messages and progressing through a series of suspenseful events.  
 No spoilers here — the less you know, the better the experience!
 
+
 ---
 
 ## How to run
