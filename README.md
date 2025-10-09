@@ -3,7 +3,7 @@
 A console-based horror game made with C#.
 <p >
   <img src="https://img.shields.io/badge/Author-farnaztr-black" />
-  <img src="https://img.shields.io/badge/Project-Haunted-Castle-yellow" />
+
 </p>
 
 ---
